@@ -1,4 +1,6 @@
-# When your host boots, it uses the DHCP protocol to obtain networking configuration information including: 
+# Analysis of Scanned Network with details on protocol
+
+## When your host boots, it uses the DHCP protocol to obtain networking configuration information including: 
 
 1. IP Address 
 2. Subnet Mask 
