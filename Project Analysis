@@ -1,4 +1,4 @@
-*When your host boots, it uses the DHCP protocol to obtain networking configuration information including:*
+# When your host boots, it uses the DHCP protocol to obtain networking configuration information including:
 
 IP Address 
 
